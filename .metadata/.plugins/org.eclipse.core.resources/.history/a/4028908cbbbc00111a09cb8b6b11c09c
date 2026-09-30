@@ -1,0 +1,12 @@
+package com.shopSage.entities;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="states")
+public class State {
+	
+	private Integer stateId;
+	private String name;
+}

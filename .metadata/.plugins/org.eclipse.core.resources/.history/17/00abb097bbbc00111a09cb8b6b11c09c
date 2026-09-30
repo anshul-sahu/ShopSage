@@ -1,0 +1,13 @@
+package com.shopSage.entities;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="cities")
+public class City {
+	
+	private Integer cityId;
+	private String name;
+	private State stateId;
+}

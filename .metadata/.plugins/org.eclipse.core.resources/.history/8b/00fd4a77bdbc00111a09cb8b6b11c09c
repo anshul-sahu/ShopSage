@@ -1,0 +1,18 @@
+package com.shopSage.entities;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="addresses")
+public class Address {
+	
+	private Integer addressId;
+	private String fullName;
+	private String addressLine1;
+	private String addressLine2;
+	private String landMark;
+	private String postalCode;
+	private GeneralUser generalUserId;
+	private City cityId;
+}

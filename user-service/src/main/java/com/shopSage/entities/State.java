@@ -1,0 +1,49 @@
+package com.shopSage.entities;
+
+import java.util.List;
+
+import jakarta.persistence.CascadeType;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="states")
+public class State {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private Integer stateId;
+	private String name;
+	
+	@OneToMany(mappedBy="state", cascade=CascadeType.ALL)
+	private List<City> city;
+
+	public Integer getStateId() {
+		return stateId;
+	}
+
+	public void setStateId(Integer stateId) {
+		this.stateId = stateId;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public List<City> getCity() {
+		return city;
+	}
+
+	public void setCity(List<City> city) {
+		this.city = city;
+	}
+	
+	
+}

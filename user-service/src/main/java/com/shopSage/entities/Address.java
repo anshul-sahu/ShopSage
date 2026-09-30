@@ -1,0 +1,98 @@
+package com.shopSage.entities;
+
+import java.util.List;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="addresses")
+public class Address {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private Integer addressId;
+	private String fullName;
+	private String addressLine1;
+	private String addressLine2;
+	private String landMark;
+	private String postalCode;
+	
+	@ManyToOne
+	@JoinColumn(name="general_user_id")
+	private GeneralUser generalUser;
+	
+	@ManyToOne
+	@JoinColumn(name="city_id")
+	private City city;
+
+	public Integer getAddressId() {
+		return addressId;
+	}
+
+	public void setAddressId(Integer addressId) {
+		this.addressId = addressId;
+	}
+
+	public String getFullName() {
+		return fullName;
+	}
+
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
+
+	public String getAddressLine1() {
+		return addressLine1;
+	}
+
+	public void setAddressLine1(String addressLine1) {
+		this.addressLine1 = addressLine1;
+	}
+
+	public String getAddressLine2() {
+		return addressLine2;
+	}
+
+	public void setAddressLine2(String addressLine2) {
+		this.addressLine2 = addressLine2;
+	}
+
+	public String getLandMark() {
+		return landMark;
+	}
+
+	public void setLandMark(String landMark) {
+		this.landMark = landMark;
+	}
+
+	public String getPostalCode() {
+		return postalCode;
+	}
+
+	public void setPostalCode(String postalCode) {
+		this.postalCode = postalCode;
+	}
+
+	public GeneralUser getGeneralUser() {
+		return generalUser;
+	}
+
+	public void setGeneralUser(GeneralUser generalUser) {
+		this.generalUser = generalUser;
+	}
+
+	public City getCity() {
+		return city;
+	}
+
+	public void setCity(City city) {
+		this.city = city;
+	}
+	
+	
+}
