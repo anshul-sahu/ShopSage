@@ -367,3 +367,83 @@
 2026-10-03 01:22:16.213: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-03 01:22:16.213: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-03 01:22:16.465: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:05.890: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:05.890: [INFO] Profiles total count: 1
+2026-10-03 02:31:05.890: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 02:31:05.890: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:05.890: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 02:31:05.890: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 02:31:05.890: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 02:31:05.890: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:18.141: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:18.947: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:18.947: [INFO] Profiles total count: 1
+2026-10-03 02:31:18.947: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 02:31:18.947: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:18.947: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 02:31:18.947: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 02:31:18.947: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 02:31:18.947: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:30.158: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:50.084: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:50.084: [INFO] Profiles total count: 1
+2026-10-03 02:31:50.084: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 02:31:50.084: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:50.084: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 02:31:50.084: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 02:31:50.084: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 02:31:50.084: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:50.350: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:52.646: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:52.646: [INFO] Profiles total count: 1
+2026-10-03 02:31:52.646: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 02:31:52.646: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 02:31:52.646: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 02:31:52.646: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 02:31:52.646: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 02:31:52.646: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 02:31:53.425: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 09:09:08.359: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 09:09:08.359: [INFO] Profiles total count: 1
+2026-10-03 09:09:08.359: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 09:09:08.359: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 09:09:08.359: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 09:09:08.359: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 09:09:08.359: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 09:09:08.359: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 09:09:22.760: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 09:11:40.382: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 09:11:40.383: [INFO] Profiles total count: 1
+2026-10-03 09:11:40.383: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 09:11:40.383: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 09:11:40.383: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 09:11:40.383: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 09:11:40.383: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 09:11:40.383: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 09:12:12.887: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 10:56:16.922: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 10:56:16.922: [INFO] Profiles total count: 1
+2026-10-03 10:56:16.922: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 10:56:16.922: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 10:56:16.922: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 10:56:16.922: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 10:56:16.922: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 10:56:16.922: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 11:20:13.673: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 13:13:33.198: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 13:13:33.198: [INFO] Profiles total count: 1
+2026-10-03 13:13:33.198: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 13:13:33.198: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 13:13:33.198: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 13:13:33.198: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 13:13:33.198: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 13:13:33.198: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 13:17:38.376: [INFO] CurrentProfilePath: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 13:17:38.376: [INFO] Profiles total count: 1
+2026-10-03 13:17:38.376: [INFO] Profile: name=Profile 1 path=C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-03 13:17:38.376: [INFO] LastUsedProfileDir: C:\project\e_commerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-03 13:17:38.376: [INFO] OnDoneLoading sync enabled: 0
+2026-10-03 13:17:38.376: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-03 13:17:38.376: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-03 13:17:38.376: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-03 13:17:43.623: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
