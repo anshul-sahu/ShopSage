@@ -15,7 +15,7 @@ import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name="gneral_users")
+@Table(name="general_users")
 public class GeneralUser {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
@@ -35,6 +35,9 @@ public class GeneralUser {
 	
 	@OneToMany(mappedBy="generalUser", cascade=CascadeType.ALL)
 	private List<Address> address;
+	
+	
+
 	public Integer getGeneralUserId() {
 		return generalUserId;
 	}
